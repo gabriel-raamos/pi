@@ -96,7 +96,7 @@ function Navbar() {
                     </div>
                     <div className="flex">
                         <button onClick={resetInput} className="flex-grow font-semibold text-black">Cancelar</button>
-                        <button onClick={search} className="flex-grow font-semibold text-blue">Buscar</button>
+                        <button onClick={search} className="flex-grow font-semibold text-purple-3">Buscar</button>
                     </div>
                 </div>
             )}
