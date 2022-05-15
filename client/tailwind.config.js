@@ -21,9 +21,9 @@ module.exports = {
       },
       pink: "#BF7eae",
       purple: {
-        1: '#985ebf',
-        2: '#753fbf',
-        3: '#6530D9',
+        1: "#985ebf",
+        2: "#753fbf",
+        3: "#6530D9",
       },
       orange: "#F2a950",
     },
