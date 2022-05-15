@@ -62,7 +62,7 @@ function Navbar() {
 
             <div className="flex items-center md:border-2 rounded-full py-2 md:shadow-sm">
                 <input value={searchInput} onChange={(event) => setSearchInput(event.target.value)} type="text" placeholder="Para onde você vai?"
-                       className="flex-grow pl-5 bg-transparent outline-none rounded-md text-sm text-gray-8 placeholder-gray-6" />
+                       className="flex-grow pl-5 bg-transparent outline-none rounded-md text-sm text-gray-4 placeholder-gray-6" />
                 <SearchIcon className="hidden md:inline-flex h-8 bg-purple-2 text-white rounded-full p-2 cursor-pointer md:mx-2" />
             </div>
 
