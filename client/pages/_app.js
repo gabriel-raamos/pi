@@ -22,8 +22,8 @@ Router.events.on('routeChangeComplete', progress.finish);
 Router.events.on('routeChangeError', progress.finish);
 
 const theme = extendTheme({
-  colors: {
-    purple: "#6530d9",
+  components: {
+    
   },
 });
 

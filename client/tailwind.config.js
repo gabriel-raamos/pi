@@ -20,6 +20,11 @@ module.exports = {
         1: "#985ebf", // Primary
         2: "#6530d9", // Secondary
         3: "#753fbf", // Tertiary
+        4: "#805ad5", // Quaternary
+      },
+      blue: {
+        1: "#3182ce",
+        2: "#8eC2ed",
       },
       orange: "#f2a950",
     },
